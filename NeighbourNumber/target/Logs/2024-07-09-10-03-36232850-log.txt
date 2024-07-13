@@ -1,0 +1,891 @@
+Generated 25 levels of size 5x5.
+Difficulty = EASY
+Using systematic search and top down.
+SearchParameter = 0
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  2  |     |  4  |  5  |     |  
+-------------------------------
+|     |  4  |  3  |     |  5  |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  3  |     |  5  |     |  7  |  
+-------------------------------
+|     |  7  |     |  9  |  8  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  2  |     |  4  |  5  |     |  
+-------------------------------
+|     |     |  3  |     |     |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  3  |     |  5  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3393 milliseconds or 3 seconds.
+Out of that 3379 milliseconds or 3 seconds were spent actually solving
+
+3070 nodes were visited.
+Out of that 2644 were leafs and 426 were non leafs.
+1873 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+|     |  4  |  3  |     |  1  |  
+-------------------------------
+|  6  |     |     |  3  |  2  |  
+-------------------------------
+|     |  6  |     |  4  |  3  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |  2  |     |     |  
+-------------------------------
+|     |  4  |  3  |     |  1  |  
+-------------------------------
+|  6  |     |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4068 milliseconds or 4 seconds.
+Out of that 4057 milliseconds or 4 seconds were spent actually solving
+
+3630 nodes were visited.
+Out of that 3110 were leafs and 520 were non leafs.
+2357 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+|  6  |  5  |  4  |     |     |  
+-------------------------------
+|     |     |  3  |  4  |  5  |  
+-------------------------------
+|     |  7  |     |  5  |  6  |  
+-------------------------------
+|  9  |  8  |     |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  7  |     |     |     |     |  
+-------------------------------
+|  6  |  5  |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  7  |     |  5  |  6  |  
+-------------------------------
+|  9  |  8  |     |  6  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3232 milliseconds or 3 seconds.
+Out of that 3222 milliseconds or 3 seconds were spent actually solving
+
+2944 nodes were visited.
+Out of that 2540 were leafs and 404 were non leafs.
+1759 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  8  |     |     |  5  |  6  |  
+-------------------------------
+|     |     |  7  |  6  |  5  |  
+-------------------------------
+|  6  |  7  |     |     |  4  |  
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  8  |     |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  6  |  7  |     |     |     |  
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3960 milliseconds or 3 seconds.
+Out of that 3948 milliseconds or 3 seconds were spent actually solving
+
+3548 nodes were visited.
+Out of that 3040 were leafs and 508 were non leafs.
+2324 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+|     |     |  1  |  2  |  3  |  
+-------------------------------
+|  6  |  7  |     |     |  4  |  
+-------------------------------
+|  5  |  6  |     |  4  |     |  
+-------------------------------
+|     |  5  |  4  |     |  2  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  6  |  7  |     |     |     |  
+-------------------------------
+|  5  |  6  |     |  4  |     |  
+-------------------------------
+|     |  5  |     |     |  2  |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 1839 milliseconds or 1 seconds.
+Out of that 1837 milliseconds or 1 seconds were spent actually solving
+
+1728 nodes were visited.
+Out of that 1516 were leafs and 212 were non leafs.
+823 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  9  |     |     |  6  |  5  |  
+-------------------------------
+|     |  1  |  2  |     |  4  |  
+-------------------------------
+|  7  |     |     |  4  |  3  |  
+-------------------------------
+|     |  3  |  4  |  5  |     |  
+-------------------------------
+|  5  |  4  |  3  |     |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  9  |     |     |     |     |  
+-------------------------------
+|     |  1  |  2  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  3  |  4  |  5  |     |  
+-------------------------------
+|  5  |  4  |  3  |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3816 milliseconds or 3 seconds.
+Out of that 3809 milliseconds or 3 seconds were spent actually solving
+
+3423 nodes were visited.
+Out of that 2946 were leafs and 477 were non leafs.
+2058 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |     |  7  |  6  |     |  
+-------------------------------
+|     |     |  8  |  7  |  6  |  
+-------------------------------
+|  7  |  8  |     |     |  5  |  
+-------------------------------
+|  8  |  7  |     |     |  4  |  
+-------------------------------
+|     |  6  |  5  |  4  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  5  |     |  7  |  6  |     |  
+-------------------------------
+|     |     |  8  |  7  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  8  |     |     |     |     |  
+-------------------------------
+|     |  6  |  5  |  4  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 1990 milliseconds or 1 seconds.
+Out of that 1988 milliseconds or 1 seconds were spent actually solving
+
+1880 nodes were visited.
+Out of that 1655 were leafs and 225 were non leafs.
+788 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  3  |     |  5  |  6  |  
+-------------------------------
+|  3  |     |  5  |     |  7  |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  5  |     |  7  |  6  |     |  
+-------------------------------
+|     |  7  |  6  |     |  4  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  3  |     |  5  |     |     |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  5  |     |  7  |  6  |     |  
+-------------------------------
+|     |     |  6  |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3393 milliseconds or 3 seconds.
+Out of that 3382 milliseconds or 3 seconds were spent actually solving
+
+3060 nodes were visited.
+Out of that 2639 were leafs and 421 were non leafs.
+1819 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  5  |     |     |  2  |  1  |  
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|     |  6  |  5  |     |  3  |  
+-------------------------------
+|  8  |     |  6  |  5  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  5  |     |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  6  |  5  |     |  3  |  
+-------------------------------
+|  8  |     |  6  |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 2950 milliseconds or 2 seconds.
+Out of that 2942 milliseconds or 2 seconds were spent actually solving
+
+2676 nodes were visited.
+Out of that 2310 were leafs and 366 were non leafs.
+1626 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  4  |     |  2  |  1  |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+|  5  |  6  |     |     |  3  |  
+-------------------------------
+|  6  |  5  |  4  |     |     |  
+-------------------------------
+|     |     |  3  |  4  |  5  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  4  |     |     |     |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+|  5  |  6  |     |     |     |  
+-------------------------------
+|  6  |  5  |  4  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4351 milliseconds or 4 seconds.
+Out of that 4346 milliseconds or 4 seconds were spent actually solving
+
+3860 nodes were visited.
+Out of that 3300 were leafs and 560 were non leafs.
+2555 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+|     |  1  |     |  3  |  4  |  
+-------------------------------
+|  5  |     |  3  |  4  |     |  
+-------------------------------
+|  4  |  3  |  2  |     |     |  
+-------------------------------
+|     |  4  |     |  2  |  1  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |     |  3  |  
+-------------------------------
+|     |  1  |     |  3  |  4  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  3  |     |     |     |  
+-------------------------------
+|     |  4  |     |  2  |  1  |  
+-------------------------------
+8 out of 15 given. 7 to fill.
+Total time taken = 3171 milliseconds or 3 seconds.
+Out of that 3160 milliseconds or 3 seconds were spent actually solving
+
+2874 nodes were visited.
+Out of that 2486 were leafs and 388 were non leafs.
+1600 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  6  |     |  4  |  3  |  
+-------------------------------
+|  4  |     |  6  |  5  |     |  
+-------------------------------
+|     |     |  7  |  6  |  5  |  
+-------------------------------
+|  2  |  3  |     |     |  6  |  
+-------------------------------
+|  3  |  4  |  5  |     |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  6  |     |     |     |  
+-------------------------------
+|  4  |     |  6  |  5  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  2  |  3  |     |     |     |  
+-------------------------------
+|  3  |  4  |  5  |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4256 milliseconds or 4 seconds.
+Out of that 4244 milliseconds or 4 seconds were spent actually solving
+
+3790 nodes were visited.
+Out of that 3242 were leafs and 548 were non leafs.
+2501 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  4  |  3  |  2  |     |  
+-------------------------------
+|  2  |  3  |     |  1  |     |  
+-------------------------------
+|  3  |     |  5  |     |  7  |  
+-------------------------------
+|     |  5  |  4  |     |  6  |  
+-------------------------------
+|  1  |     |     |  4  |  5  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  4  |  3  |  2  |     |  
+-------------------------------
+|  2  |  3  |     |  1  |     |  
+-------------------------------
+|     |     |  5  |     |     |  
+-------------------------------
+|     |  5  |  4  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3423 milliseconds or 3 seconds.
+Out of that 3418 milliseconds or 3 seconds were spent actually solving
+
+3083 nodes were visited.
+Out of that 2659 were leafs and 424 were non leafs.
+1824 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |     |  6  |  5  |  4  |  
+-------------------------------
+|  3  |  2  |     |     |  5  |  
+-------------------------------
+|  4  |  3  |     |     |  6  |  
+-------------------------------
+|     |  4  |  3  |  2  |     |  
+-------------------------------
+|  2  |     |  4  |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  6  |  5  |     |  
+-------------------------------
+|  3  |     |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  4  |  3  |  2  |     |  
+-------------------------------
+|  2  |     |  4  |  3  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3484 milliseconds or 3 seconds.
+Out of that 3479 milliseconds or 3 seconds were spent actually solving
+
+3152 nodes were visited.
+Out of that 2739 were leafs and 413 were non leafs.
+1588 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |     |  1  |  2  |  3  |  
+-------------------------------
+|  4  |     |  2  |  3  |     |  
+-------------------------------
+|  3  |  2  |     |     |  5  |  
+-------------------------------
+|  2  |  3  |     |     |  6  |  
+-------------------------------
+|     |  4  |  5  |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  1  |  2  |     |  
+-------------------------------
+|  4  |     |  2  |  3  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  4  |  5  |  6  |     |  
+-------------------------------
+8 out of 15 given. 7 to fill.
+Total time taken = 4468 milliseconds or 4 seconds.
+Out of that 4453 milliseconds or 4 seconds were spent actually solving
+
+3951 nodes were visited.
+Out of that 3394 were leafs and 557 were non leafs.
+2358 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  8  |     |  6  |  5  |  
+-------------------------------
+|  8  |     |  6  |     |  4  |  
+-------------------------------
+|  7  |     |  5  |  4  |     |  
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|  5  |  6  |  7  |     |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  8  |     |  6  |  5  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |     |     |  4  |     |  
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|     |  6  |     |     |     |  
+-------------------------------
+8 out of 15 given. 7 to fill.
+Total time taken = 4093 milliseconds or 4 seconds.
+Out of that 4087 milliseconds or 4 seconds were spent actually solving
+
+3626 nodes were visited.
+Out of that 3123 were leafs and 503 were non leafs.
+2125 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |     |  7  |  6  |     |  
+-------------------------------
+|     |  5  |     |  7  |  6  |  
+-------------------------------
+|  3  |     |  5  |     |  7  |  
+-------------------------------
+|  2  |  3  |  4  |     |     |  
+-------------------------------
+|     |  2  |     |  4  |  5  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |  6  |     |  
+-------------------------------
+|     |  5  |     |  7  |  6  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  3  |     |     |     |  
+-------------------------------
+|     |  2  |     |  4  |  5  |  
+-------------------------------
+8 out of 15 given. 7 to fill.
+Total time taken = 2747 milliseconds or 2 seconds.
+Out of that 2745 milliseconds or 2 seconds were spent actually solving
+
+2517 nodes were visited.
+Out of that 2200 were leafs and 317 were non leafs.
+1149 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  9  |  8  |  7  |     |     |  
+-------------------------------
+|  8  |     |  6  |  7  |     |  
+-------------------------------
+|     |  6  |  5  |     |  7  |  
+-------------------------------
+|     |  7  |     |  9  |  8  |  
+-------------------------------
+|  5  |     |     |  8  |  9  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  9  |  8  |  7  |     |     |  
+-------------------------------
+|  8  |     |  6  |  7  |     |  
+-------------------------------
+|     |  6  |  5  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  5  |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4266 milliseconds or 4 seconds.
+Out of that 4264 milliseconds or 4 seconds were spent actually solving
+
+3816 nodes were visited.
+Out of that 3264 were leafs and 552 were non leafs.
+2515 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |     |  7  |  8  |     |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  3  |  4  |     |     |  7  |  
+-------------------------------
+|     |     |  4  |  5  |  6  |  
+-------------------------------
+|     |  2  |  3  |     |  5  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  5  |     |  7  |  8  |     |  
+-------------------------------
+|  4  |  5  |     |  7  |     |  
+-------------------------------
+|  3  |  4  |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  2  |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3474 milliseconds or 3 seconds.
+Out of that 3468 milliseconds or 3 seconds were spent actually solving
+
+3114 nodes were visited.
+Out of that 2682 were leafs and 432 were non leafs.
+1885 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  4  |  5  |     |  7  |  
+-------------------------------
+|     |     |  6  |  7  |  8  |  
+-------------------------------
+|  5  |     |     |  8  |  9  |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  7  |  8  |     |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  4  |  5  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  5  |     |     |     |     |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  7  |  8  |     |  6  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4342 milliseconds or 4 seconds.
+Out of that 4335 milliseconds or 4 seconds were spent actually solving
+
+3854 nodes were visited.
+Out of that 3295 were leafs and 559 were non leafs.
+2552 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  4  |  5  |     |  7  |  
+-------------------------------
+|     |  5  |     |  7  |  6  |  
+-------------------------------
+|  7  |  6  |     |  8  |     |  
+-------------------------------
+|  6  |     |  8  |  9  |     |  
+-------------------------------
+|  5  |     |  7  |     |  9  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  5  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  7  |  6  |     |  8  |     |  
+-------------------------------
+|  6  |     |  8  |  9  |     |  
+-------------------------------
+|  5  |     |  7  |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4343 milliseconds or 4 seconds.
+Out of that 4338 milliseconds or 4 seconds were spent actually solving
+
+3860 nodes were visited.
+Out of that 3300 were leafs and 560 were non leafs.
+2555 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  4  |     |     |  7  |  8  |  
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  2  |     |     |  5  |  6  |  
+-------------------------------
+|     |  4  |  3  |     |  5  |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |     |  8  |  
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  4  |  3  |     |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 3843 milliseconds or 3 seconds.
+Out of that 3832 milliseconds or 3 seconds were spent actually solving
+
+3456 nodes were visited.
+Out of that 2973 were leafs and 483 were non leafs.
+2093 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  3  |  4  |  5  |     |  
+-------------------------------
+|  5  |  4  |     |     |  1  |  
+-------------------------------
+|  6  |     |     |  3  |  2  |  
+-------------------------------
+|     |  2  |  1  |     |  3  |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  3  |  4  |  5  |     |  
+-------------------------------
+|     |  4  |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4328 milliseconds or 4 seconds.
+Out of that 4325 milliseconds or 4 seconds were spent actually solving
+
+3860 nodes were visited.
+Out of that 3300 were leafs and 560 were non leafs.
+2555 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |  3  |  2  |     |     |  
+-------------------------------
+|  5  |     |     |  8  |  9  |  
+-------------------------------
+|     |  5  |     |  7  |  8  |  
+-------------------------------
+|     |     |  5  |  6  |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |  3  |  2  |     |     |  
+-------------------------------
+|  5  |     |     |  8  |     |  
+-------------------------------
+|     |  5  |     |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 4401 milliseconds or 4 seconds.
+Out of that 4397 milliseconds or 4 seconds were spent actually solving
+
+3924 nodes were visited.
+Out of that 3371 were leafs and 553 were non leafs.
+2352 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |  4  |     |  2  |     |  
+-------------------------------
+|  6  |     |  4  |     |  2  |  
+-------------------------------
+|  7  |     |     |  4  |  3  |  
+-------------------------------
+|     |  1  |  2  |  3  |     |  
+-------------------------------
+|     |  2  |  3  |     |  1  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  4  |     |  2  |     |  
+-------------------------------
+|     |     |  4  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  1  |  2  |  3  |     |  
+-------------------------------
+|     |  2  |  3  |     |  1  |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 2473 milliseconds or 2 seconds.
+Out of that 2471 milliseconds or 2 seconds were spent actually solving
+
+2306 nodes were visited.
+Out of that 2010 were leafs and 296 were non leafs.
+1185 Nodes were avoided due to the HashSet.
+
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+----------------------------------------------------
+Min/Max and average values below
+
+
+Average total time = 3604.16 milliseconds or 3.60416 seconds
+Max total time = 4468
+Min total time = 1839
+
+Average solving time = 3597.04 milliseconds or 3.59704 seconds
+Max solving time = 4453
+Min solving time = 1837
+
+Average number of nodes visitied = 3240.08
+Max number of nodes visitied = 3951
+Min number of nodes visitied = 1728
+
+Average number of leafs visited = 2789.52
+Max number of leafs visited = 3394
+Min number of leafs visited = 1516
+
+Average number of non leafs visited = 450.56
+Max number of non leafs visited = 560
+Min number of non leafs visited = 212
+
+Average number of dupes avoided due to HashSet = 1952.76
+Max number of dupes avoided due to HashSet = 2555
+Min number of dupes avoided due to HashSet = 788
+
+Average depth in case of probabilistic search = 0.0
+Max depth in case of probabilistic search = 0.0
+Min depth in case of probabilistic search = 0.0
+
+Average number of preset values = 8.88
+Max number of preset values = 10
+Min number of preset values = 8
+
+total Time for all iterations = 90 seconds.

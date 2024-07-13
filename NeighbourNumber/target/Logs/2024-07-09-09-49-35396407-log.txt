@@ -1,0 +1,916 @@
+Generated 25 levels of size 5x5.
+Difficulty = EASY
+Using probabilistic
+SearchParameter = 50
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  8  |  7  |     |  5  |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  7  |     |     |  4  |  3  |  
+-------------------------------
+|  8  |     |     |  5  |  4  |  
+-------------------------------
+|     |  4  |  5  |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  8  |  7  |     |  5  |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  7  |     |     |     |  3  |  
+-------------------------------
+|  8  |     |     |     |  4  |  
+-------------------------------
+|     |  4  |     |     |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 94 milliseconds or 0 seconds.
+Out of that 93 milliseconds or 0 seconds were spent actually solving
+
+142 nodes were visited.
+Out of that 50 were leafs and 92 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.16
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  4  |  3  |     |  5  |  
+-------------------------------
+|     |  5  |     |  3  |  4  |  
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+|  8  |  7  |     |  5  |     |  
+-------------------------------
+|  9  |     |  7  |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  4  |     |     |  5  |  
+-------------------------------
+|     |  5  |     |  3  |  4  |  
+-------------------------------
+|     |     |  5  |     |  3  |  
+-------------------------------
+|  8  |  7  |     |  5  |     |  
+-------------------------------
+|     |     |     |  6  |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 117 milliseconds or 0 seconds.
+Out of that 114 milliseconds or 0 seconds were spent actually solving
+
+161 nodes were visited.
+Out of that 50 were leafs and 111 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.78
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  2  |  1  |     |     |  4  |  
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |     |  1  |  2  |  
+-------------------------------
+|     |     |  3  |  2  |  1  |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |     |  1  |     |  
+-------------------------------
+|     |     |  3  |  2  |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 125 milliseconds or 0 seconds.
+Out of that 125 milliseconds or 0 seconds were spent actually solving
+
+179 nodes were visited.
+Out of that 50 were leafs and 129 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.42
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |     |  4  |  5  |  6  |  
+-------------------------------
+|     |  4  |  3  |     |  5  |  
+-------------------------------
+|  4  |  3  |  2  |     |     |  
+-------------------------------
+|  5  |     |     |  2  |  3  |  
+-------------------------------
+|  6  |  5  |     |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  4  |  5  |     |  
+-------------------------------
+|     |  4  |  3  |     |     |  
+-------------------------------
+|  4  |  3  |  2  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  6  |  5  |     |  3  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 101 milliseconds or 0 seconds.
+Out of that 100 milliseconds or 0 seconds were spent actually solving
+
+152 nodes were visited.
+Out of that 50 were leafs and 102 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.96
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|  1  |     |  3  |  4  |     |  
+-------------------------------
+|     |  3  |  2  |     |  4  |  
+-------------------------------
+|  3  |  4  |     |  6  |     |  
+-------------------------------
+|  2  |     |  4  |     |  6  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|  1  |     |  3  |  4  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  3  |  4  |     |  6  |     |  
+-------------------------------
+|  2  |     |  4  |     |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 83 milliseconds or 0 seconds.
+Out of that 82 milliseconds or 0 seconds were spent actually solving
+
+134 nodes were visited.
+Out of that 50 were leafs and 84 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.32
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+|  1  |     |  3  |     |  5  |  
+-------------------------------
+|     |  3  |     |  5  |  6  |  
+-------------------------------
+|  3  |  2  |  1  |     |     |  
+-------------------------------
+|  4  |     |     |  7  |  8  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  4  |     |     |  
+-------------------------------
+|  1  |     |  3  |     |  5  |  
+-------------------------------
+|     |     |     |  5  |  6  |  
+-------------------------------
+|  3  |  2  |     |     |     |  
+-------------------------------
+|  4  |     |     |  7  |  8  |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 100 milliseconds or 0 seconds.
+Out of that 99 milliseconds or 0 seconds were spent actually solving
+
+151 nodes were visited.
+Out of that 50 were leafs and 101 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.98
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  5  |  4  |     |  2  |  
+-------------------------------
+|  5  |     |  3  |  4  |     |  
+-------------------------------
+|     |     |  2  |  3  |  4  |  
+-------------------------------
+|  7  |  8  |     |     |  5  |  
+-------------------------------
+|  6  |  7  |     |  5  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  5  |     |     |  2  |  
+-------------------------------
+|     |     |     |  4  |     |  
+-------------------------------
+|     |     |     |  3  |  4  |  
+-------------------------------
+|  7  |  8  |     |     |  5  |  
+-------------------------------
+|  6  |  7  |     |  5  |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 81 milliseconds or 0 seconds.
+Out of that 80 milliseconds or 0 seconds were spent actually solving
+
+129 nodes were visited.
+Out of that 50 were leafs and 79 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.42
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|  8  |     |     |  5  |  6  |  
+-------------------------------
+|  9  |  8  |     |     |  5  |  
+-------------------------------
+|     |  9  |  8  |  7  |     |  
+-------------------------------
+|     |     |  9  |  8  |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  7  |     |  5  |     |     |  
+-------------------------------
+|  8  |     |     |  5  |  6  |  
+-------------------------------
+|  9  |  8  |     |     |  5  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |     |     |  8  |  7  |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 103 milliseconds or 0 seconds.
+Out of that 103 milliseconds or 0 seconds were spent actually solving
+
+155 nodes were visited.
+Out of that 50 were leafs and 105 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.9
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |     |     |  4  |  3  |  
+-------------------------------
+|     |  3  |  2  |     |  4  |  
+-------------------------------
+|     |  4  |  3  |  2  |     |  
+-------------------------------
+|  4  |  5  |     |  3  |     |  
+-------------------------------
+|  3  |     |  5  |     |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  7  |     |     |  4  |  3  |  
+-------------------------------
+|     |  3  |     |     |     |  
+-------------------------------
+|     |  4  |     |  2  |     |  
+-------------------------------
+|  4  |  5  |     |  3  |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 85 milliseconds or 0 seconds.
+Out of that 85 milliseconds or 0 seconds were spent actually solving
+
+137 nodes were visited.
+Out of that 50 were leafs and 87 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.26
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  8  |  9  |     |     |  6  |  
+-------------------------------
+|  9  |     |  7  |     |  5  |  
+-------------------------------
+|     |  7  |  8  |  9  |     |  
+-------------------------------
+|     |     |  9  |  8  |  7  |  
+-------------------------------
+|  6  |  5  |     |  7  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  9  |     |     |     |  
+-------------------------------
+|     |     |     |     |  5  |  
+-------------------------------
+|     |  7  |  8  |  9  |     |  
+-------------------------------
+|     |     |  9  |  8  |     |  
+-------------------------------
+|  6  |  5  |     |  7  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 115 milliseconds or 0 seconds.
+Out of that 114 milliseconds or 0 seconds were spent actually solving
+
+165 nodes were visited.
+Out of that 50 were leafs and 115 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.7
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |  6  |     |     |  9  |  
+-------------------------------
+|  4  |     |  6  |     |  8  |  
+-------------------------------
+|  3  |  4  |     |  2  |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+|     |     |  3  |  4  |  5  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  6  |     |     |     |  
+-------------------------------
+|  4  |     |     |     |     |  
+-------------------------------
+|  3  |  4  |     |  2  |     |  
+-------------------------------
+|     |  5  |  4  |  3  |     |  
+-------------------------------
+|     |     |  3  |  4  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 109 milliseconds or 0 seconds.
+Out of that 109 milliseconds or 0 seconds were spent actually solving
+
+162 nodes were visited.
+Out of that 50 were leafs and 112 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.76
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  6  |  5  |     |  7  |     |  
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|  8  |  7  |     |     |  4  |  
+-------------------------------
+|     |     |  3  |  4  |  5  |  
+-------------------------------
+|     |     |  4  |  5  |  6  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  6  |  5  |     |  7  |     |  
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|  8  |  7  |     |     |     |  
+-------------------------------
+|     |     |     |  4  |     |  
+-------------------------------
+|     |     |     |  5  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 98 milliseconds or 0 seconds.
+Out of that 98 milliseconds or 0 seconds were spent actually solving
+
+149 nodes were visited.
+Out of that 50 were leafs and 99 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.02
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|  8  |     |     |  5  |  4  |  
+-------------------------------
+|  9  |     |  7  |  6  |     |  
+-------------------------------
+|     |  9  |     |  7  |  6  |  
+-------------------------------
+|     |  8  |  9  |     |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  7  |  6  |  5  |     |     |  
+-------------------------------
+|     |     |     |  5  |     |  
+-------------------------------
+|  9  |     |  7  |     |     |  
+-------------------------------
+|     |  9  |     |     |  6  |  
+-------------------------------
+|     |  8  |  9  |     |  7  |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 119 milliseconds or 0 seconds.
+Out of that 118 milliseconds or 0 seconds were spent actually solving
+
+167 nodes were visited.
+Out of that 50 were leafs and 117 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.66
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  5  |  6  |     |     |  9  |  
+-------------------------------
+|  6  |  7  |     |  9  |     |  
+-------------------------------
+|     |     |  9  |  8  |  7  |  
+-------------------------------
+|     |  9  |  8  |     |  6  |  
+-------------------------------
+|  9  |     |  7  |  6  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  5  |  6  |     |     |     |  
+-------------------------------
+|  6  |     |     |  9  |     |  
+-------------------------------
+|     |     |  9  |  8  |  7  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  9  |     |  7  |  6  |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 92 milliseconds or 0 seconds.
+Out of that 91 milliseconds or 0 seconds were spent actually solving
+
+146 nodes were visited.
+Out of that 50 were leafs and 96 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.08
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  8  |  9  |     |     |  6  |  
+-------------------------------
+|  9  |     |     |  6  |  7  |  
+-------------------------------
+|     |  7  |  6  |     |  8  |  
+-------------------------------
+|     |  6  |  5  |  4  |     |  
+-------------------------------
+|  6  |     |  4  |  5  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  9  |     |     |     |  
+-------------------------------
+|  9  |     |     |     |  7  |  
+-------------------------------
+|     |  7  |  6  |     |     |  
+-------------------------------
+|     |  6  |  5  |  4  |     |  
+-------------------------------
+|  6  |     |  4  |  5  |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 96 milliseconds or 0 seconds.
+Out of that 95 milliseconds or 0 seconds were spent actually solving
+
+150 nodes were visited.
+Out of that 50 were leafs and 100 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.0
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  3  |     |  5  |  6  |  
+-------------------------------
+|  5  |  4  |  3  |     |     |  
+-------------------------------
+|  6  |     |     |  3  |  4  |  
+-------------------------------
+|     |  2  |  1  |     |  3  |  
+-------------------------------
+|  4  |     |  2  |  1  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  3  |     |  5  |  6  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  6  |     |     |  3  |  4  |  
+-------------------------------
+|     |  2  |     |     |  3  |  
+-------------------------------
+|     |     |     |  1  |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 115 milliseconds or 0 seconds.
+Out of that 113 milliseconds or 0 seconds were spent actually solving
+
+167 nodes were visited.
+Out of that 50 were leafs and 117 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.66
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  5  |  6  |     |  4  |     |  
+-------------------------------
+|     |  5  |     |  3  |  2  |  
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+|     |     |  6  |  5  |  4  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|  5  |  6  |     |  4  |     |  
+-------------------------------
+|     |  5  |     |     |     |  
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 117 milliseconds or 0 seconds.
+Out of that 116 milliseconds or 0 seconds were spent actually solving
+
+169 nodes were visited.
+Out of that 50 were leafs and 119 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.62
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  4  |     |  6  |  7  |     |  
+-------------------------------
+|     |  4  |  5  |     |  7  |  
+-------------------------------
+|  2  |  3  |     |  5  |     |  
+-------------------------------
+|  1  |  2  |     |     |  5  |  
+-------------------------------
+|     |     |  2  |  3  |  4  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  6  |  7  |     |  
+-------------------------------
+|     |  4  |  5  |     |  7  |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  1  |     |     |     |  5  |  
+-------------------------------
+|     |     |  2  |  3  |  4  |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 83 milliseconds or 0 seconds.
+Out of that 83 milliseconds or 0 seconds were spent actually solving
+
+134 nodes were visited.
+Out of that 50 were leafs and 84 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.32
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  9  |  8  |  7  |     |     |  
+-------------------------------
+|  8  |     |     |  5  |  6  |  
+-------------------------------
+|  7  |     |  5  |  6  |     |  
+-------------------------------
+|     |  5  |  6  |     |  8  |  
+-------------------------------
+|     |  6  |     |  8  |  9  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  9  |  8  |  7  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|  7  |     |  5  |  6  |     |  
+-------------------------------
+|     |  5  |  6  |     |  8  |  
+-------------------------------
+|     |  6  |     |     |  9  |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 97 milliseconds or 0 seconds.
+Out of that 97 milliseconds or 0 seconds were spent actually solving
+
+148 nodes were visited.
+Out of that 50 were leafs and 98 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.04
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  6  |  5  |  4  |     |     |  
+-------------------------------
+|     |  4  |  5  |     |  3  |  
+-------------------------------
+|  8  |     |     |  5  |  4  |  
+-------------------------------
+|  7  |     |     |  4  |  5  |  
+-------------------------------
+|     |  1  |  2  |  3  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  6  |  5  |  4  |     |     |  
+-------------------------------
+|     |  4  |  5  |     |  3  |  
+-------------------------------
+|     |     |     |     |  4  |  
+-------------------------------
+|  7  |     |     |     |     |  
+-------------------------------
+|     |  1  |  2  |  3  |     |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 107 milliseconds or 0 seconds.
+Out of that 106 milliseconds or 0 seconds were spent actually solving
+
+156 nodes were visited.
+Out of that 50 were leafs and 106 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.88
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |  6  |     |  8  |  7  |  
+-------------------------------
+|     |     |  8  |  7  |  6  |  
+-------------------------------
+|  9  |  8  |  7  |     |     |  
+-------------------------------
+|  8  |  7  |     |  9  |     |  
+-------------------------------
+|  7  |     |  5  |     |  3  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |  6  |     |  8  |  7  |  
+-------------------------------
+|     |     |     |  7  |     |  
+-------------------------------
+|  9  |  8  |     |     |     |  
+-------------------------------
+|  8  |  7  |     |  9  |     |  
+-------------------------------
+|     |     |     |     |  3  |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 98 milliseconds or 0 seconds.
+Out of that 98 milliseconds or 0 seconds were spent actually solving
+
+148 nodes were visited.
+Out of that 50 were leafs and 98 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.04
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |     |  6  |  5  |  4  |  
+-------------------------------
+|  3  |  4  |     |  6  |     |  
+-------------------------------
+|     |  5  |  4  |     |  2  |  
+-------------------------------
+|  5  |     |  3  |     |  1  |  
+-------------------------------
+|  6  |  7  |     |  9  |     |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |  6  |     |  4  |  
+-------------------------------
+|     |  4  |     |     |     |  
+-------------------------------
+|     |  5  |  4  |     |  2  |  
+-------------------------------
+|  5  |     |  3  |     |  1  |  
+-------------------------------
+|     |  7  |     |     |     |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 120 milliseconds or 0 seconds.
+Out of that 120 milliseconds or 0 seconds were spent actually solving
+
+175 nodes were visited.
+Out of that 50 were leafs and 125 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.5
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|     |     |  5  |  4  |  3  |  
+-------------------------------
+|  6  |  5  |     |  3  |     |  
+-------------------------------
+|  5  |  6  |  7  |     |     |  
+-------------------------------
+|     |  7  |  8  |     |  6  |  
+-------------------------------
+|  3  |     |     |  6  |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |  4  |     |  
+-------------------------------
+|  6  |  5  |     |     |     |  
+-------------------------------
+|  5  |  6  |  7  |     |     |  
+-------------------------------
+|     |  7  |  8  |     |  6  |  
+-------------------------------
+|  3  |     |     |     |  7  |  
+-------------------------------
+11 out of 15 given. 4 to fill.
+Total time taken = 93 milliseconds or 0 seconds.
+Out of that 92 milliseconds or 0 seconds were spent actually solving
+
+142 nodes were visited.
+Out of that 50 were leafs and 92 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.16
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  3  |     |     |  6  |  5  |  
+-------------------------------
+|     |  1  |  2  |     |  4  |  
+-------------------------------
+|  1  |  2  |  3  |     |     |  
+-------------------------------
+|  2  |     |  4  |  3  |     |  
+-------------------------------
+|     |  4  |     |  2  |  1  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+|     |  1  |  2  |     |  4  |  
+-------------------------------
+|  1  |  2  |  3  |     |     |  
+-------------------------------
+|     |     |  4  |  3  |     |  
+-------------------------------
+|     |  4  |     |     |  1  |  
+-------------------------------
+10 out of 15 given. 5 to fill.
+Total time taken = 98 milliseconds or 0 seconds.
+Out of that 98 milliseconds or 0 seconds were spent actually solving
+
+145 nodes were visited.
+Out of that 50 were leafs and 95 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 13.1
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+---------------------------------------------------------------
+Solution:
+-------------------------------
+|  7  |  6  |     |     |  3  |  
+-------------------------------
+|  8  |     |     |  5  |  4  |  
+-------------------------------
+|     |  8  |  7  |  6  |     |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|     |     |  9  |  8  |  7  |  
+-------------------------------
+Puzzle:
+-------------------------------
+|  7  |  6  |     |     |     |  
+-------------------------------
+|  8  |     |     |     |     |  
+-------------------------------
+|     |  8  |  7  |  6  |     |  
+-------------------------------
+|  6  |  7  |  8  |     |     |  
+-------------------------------
+|     |     |     |     |     |  
+-------------------------------
+9 out of 15 given. 6 to fill.
+Total time taken = 107 milliseconds or 0 seconds.
+Out of that 107 milliseconds or 0 seconds were spent actually solving
+
+158 nodes were visited.
+Out of that 50 were leafs and 108 were non leafs.
+
+Probabilistic search was used with 50 iterations.
+The average search depth was 12.84
+Search direction was Top Down, meaning from the solved puzzle hints were removed.
+----------------------------------------------------
+Min/Max and average values below
+
+
+Average total time = 102.12 milliseconds or 0.10212 seconds
+Max total time = 125
+Min total time = 81
+
+Average solving time = 101.44 milliseconds or 0.10144 seconds
+Max solving time = 125
+Min solving time = 80
+
+Average number of nodes visitied = 152.84
+Max number of nodes visitied = 179
+Min number of nodes visitied = 129
+
+Average number of leafs visited = 50.0
+Max number of leafs visited = 50
+Min number of leafs visited = 50
+
+Average number of non leafs visited = 102.84
+Max number of non leafs visited = 129
+Min number of non leafs visited = 79
+
+Average number of dupes avoided due to HashSet = 0.0
+Max number of dupes avoided due to HashSet = 0
+Min number of dupes avoided due to HashSet = 0
+
+Average depth in case of probabilistic search = 12.943200000000001
+Max depth in case of probabilistic search = 13.42
+Min depth in case of probabilistic search = 12.42
+
+Average number of preset values = 10.28
+Max number of preset values = 11
+Min number of preset values = 9
+
+total Time for all iterations = 2 seconds.
